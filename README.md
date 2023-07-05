@@ -11,3 +11,5 @@ With Lemon AI, it is possible to give your agents access to well-defined APIs fo
 ## 📈 Getting Started
 
 The included .html page allows you to visualize how your LLM agents are using tools to solve a given task. To get started just open the corresponding html page in your browser and select the lemonai.log file that you want to visualize. As a result, you will be able to understand how frequently and in which workflow combination your tools are used:
+
+![Heatmap Example](heatmap-example.gif)
