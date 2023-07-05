@@ -356,13 +356,9 @@ document.getElementById("inputfile").addEventListener("change", function () {
   var fr = new FileReader();
   fr.onload = function () {
     const logEntries = parseLogData(fr.result);
-
     const transformedData = logEntries.map(transformLogEntry);
-
     const baseGraphData = generatedBaseGraphData(transformedData);
-
     const graphData = formatGraphData(baseGraphData.nodes, baseGraphData.edges);
-
     buildGraph(graphData);
   };
 
