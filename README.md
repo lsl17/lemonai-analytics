@@ -1,5 +1,6 @@
 <div align="center">
   <h1>📊 Lemon AI Analytics Tool</h1>
+  <h3>The Lemon AI Analytics Tool to Gain Transparency on the Decision Making of Your Lemon Agent</h3>
   <br />
     <a href="https://github.com/felixbrock/lemonai">
     <img alt="Run Notebook in LangChain Docs" src="https://img.shields.io/badge/Jump to the 🍋 main repo-x?style=for-the-badge&logoColor=white&label&labelColor=gray&color=gray">
